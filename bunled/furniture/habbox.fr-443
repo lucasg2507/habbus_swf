@@ -1,0 +1,28 @@
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes128 128bits
+Hash Algorithm: Sha256 ?bits
+Key Exchange: ECDHE_RSA (0xae06) 255bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.habbox.fr
+
+[Issuer]
+  CN=GTS CA 1P5, O=Google Trust Services LLC, C=US
+
+[Serial Number]
+  5C410B27C1C27CCE138EF2D4595D9F0F
+
+[Not Before]
+  01/02/2023 1:31:56
+
+[Not After]
+  02/05/2023 2:31:55
+
+[Thumbprint]
+  77AC2C863DF98AAFF7EF6E95CF807A8E00BC6B40
+
+[SubjectAltNames]
+*.habbox.fr, habbox.fr

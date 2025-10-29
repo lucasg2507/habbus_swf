@@ -1,0 +1,31 @@
+Causantes Wired
+<span class="padding-top"><br></span><h1>Causantes Wired</h1><span class="padding-top"><br></span>
+<span class="padding-top"><br></span><h3>¿Cómo funciona cada causante?</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_walks_on_furni.png" vspace="0" align="center" hspace="10"/><b>CAUSANTE WIRED: Sobre un Furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Los efectos tienen lugar cuando un personaje camina sobre un Furni</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_walks_off_furni.png" vspace="0" align="left" hspace="10"/><b>CAUSANTE WIRED: Vete</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Los efectos tienen lugar cuando un personaje se aleje del Furni</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_bot_reached_avtr.png" vspace="0" align="left" hspace="5"/><b>CAUSANTE WIRED: Bot alcanza usuario</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Los efectos son accionados cuando el Bot seleccionado alcanza a un usuario</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_bot_reached_stf.png" vspace="0" align="left" hspace="7"/><b>CAUSANTE WIRED: Bot alcanza furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Los efectos son accionados cuando el Bot seleccionado alcanza uno de los Furnis seleccionados</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_says_something.png" vspace="0" align="left" hspace="10"/><b>CAUSANTE WIRED: Clave</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Los efectos tienen lugar cuando un personaje dice una palabra o frase concreta</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_state_changed.png" vspace="0" align="left" hspace="10"/><b>CAUSANTE WIRED: Mutación</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Los efectos tienen lugar cuando cambia el estado de un Furni mediante un doble clic</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images//album3606/wf_trg_enter_room.png" vspace="0" align="left" hspace="10"/><b>CAUSANTE WIRED: Entrada</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Los efectos tienen lugar cuando un personaje entra en la Sala</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_periodically.png" vspace="0" align="left" hspace="10"/><b>CAUSANTE WIRED: Periodos</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Los efectos se cuenta cuando el primer personaje entre a la Sala o cuando se resetea el Furni</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_at_given_time.png" vspace="0" align="left" hspace="10"/><b>CAUSANTE WIRED: ¡Ya!</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Los efectos tienen lugar a una hora concreta. El tiempo comienza a contar cuando el primer personaje entre a la Sala o cuando sea programado un reseteo</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_score_achieved.png" vspace="0" align="left" hspace="10"/><b>CAUSANTE WIRED: Puntos conseguidos</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Se activa cuando se alcanza una puntuación determinada</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_game_ends.png" vspace="0" align="left" hspace="10"/><b>CAUSANTE WIRED: Acaba el juego</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Los efectos tienen lugar al acabar un juego de Battle Banzai en una Sala</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_game_starts.png" vspace="0" align="left" hspace="10"/><b>CAUSANTE WIRED: Comienza el juego</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Los efectos tienen lugar cuando se inicia un juego de Battle Banzai en una Sala</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_collision.png" vspace="0" align="left" hspace="10"/><b>CAUSANTE WIRED: Colisión</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Causado cuando al mover un Furni (usando Wired Caza o Fuga) choca con un avatar: el usuario causante es el avatar que choca</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_trg_period_long.png" vspace="0" align="left" hspace="10"/><b>CAUSANTE WIRED: Periódico Largo</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>¡Juegos más largos! Los Efectos se desencadenan cuando transcurre un tiempo determinado. ¡Como el Causante Periódico, pero más largo!</p><span class="padding-bottom"><br></span>

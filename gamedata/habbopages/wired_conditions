@@ -1,0 +1,41 @@
+Condiciones Wired
+<span class="padding-top"><br></span><h1>Condiciones Wired</h1><span class="padding-top"><br></span>
+<span class="padding-top"><br></span><h3>¿Cómo funciona cada condición?</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_actor_in_group.png" vspace="0" align="center" hspace="10"/><b>CONDICIÓN WIRED: Miembro del Grupo</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>La condición se da cuando hay un grupo de sala y el avatar es miembro de ese grupo</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_has_furni_on.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED: Furni encima</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>El Efecto sólo funcionará si uno o todos los Furni elegidos tienen otro Furni encima</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_has_handitem.png" vspace="0" align="left" hspace="5"/><b>CONDICIÓN WIRED: Usuario tiene item de mano</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>La acción está permitida si el usuario sostiene el ítem de mano seleccionado</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_not_furni_on.png" vspace="0" align="left" hspace="7"/><b>CONDICIÓN WIRED NEGATIVA: NO tiene Furni Encima</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Condición permitida si ninguno de los Furnis seleccionados NO tiene otro Furni encima</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_not_hv_avtrs.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED NEGATIVA: los Furnis NO tienen avatares</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Condición perimitida si ninguno de los Furnis seleccionados NO tiene avatares encima</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_not_in_group.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED NEGATIVA: usuario NO es Miembro del Grupo</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>La condición ocurre cuando estás en una sala de grupo y el avatar NO es miembro de ese grupo</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images//album3606/wf_cnd_not_in_team.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED NEGATIVA: Usuario No Miembro del Equipo</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>La condición ocurre cuando el avatar NO  es un miembro del equipo pre-establecido</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_not_match_snap.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED NEGATIVA: el estado de los Furnis NO coincide</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Condición permitida si los estados de los furnis seleccionados NO se corresponde</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_not_stuff_is.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED: el tipo de Furni NO se corresponde</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>La condición ocurre si el Furni causante NO es uno de los Furnis elegidos y no es del mismo tipo</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_not_trggrer_on.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED NEGATIVA: el causante no está en el furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>La condición ocurre si ésta NO está en uno de los furnis seleccionados</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_not_user_count.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED: el recuento de usuarios no es</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>La condición ocurre si el usuario en sala NO tiene los límites definidos</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_actor_in_team.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED: Miembro del Equipo</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Se produce la Condición cuando el avatar es miembro del equipo preestablecido</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_furnis_hv_avtrs.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED: Furnis con avatares</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>El Efecto tiene lugar si todos los Furni seleccionados tienen un avatar encima</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_match_snapshot.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED: Coincidencia</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>El Efecto tiene lugar si los estados de los Furni seleccionados coinciden</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_stuff_is.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED: Tipos de Furni Coinciden</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>El efecto tendrá lugar si el Furni causante es uno de los Furnis elegidos o es del mismo tipo</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_time_less_than.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED: - segundos</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>El Efecto se produce si han transcurrido menos de x segundos desde el reseteo</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_time_more_than.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED: + segundos</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>El Efecto se produce si han transcurrido más de x segundos desde el reseteo</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_trggrer_on_frn_1.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED: Písalo tú</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>El Efecto tiene lugar si el usuario seleccionado está sobre uno de los Furni programados</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="https://images.habbo.com/c_images/album3606/wf_cnd_user_count_in.png" vspace="0" align="left" hspace="10"/><b>CONDICIÓN WIRED: Usuarios en sala</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>El Efecto tiene lugar si el recuento de usuarios en sala está dentro de los límites establecidos</p><span class="padding-bottom"><br></span>
